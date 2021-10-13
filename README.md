@@ -1,16 +1,39 @@
 ### Hi there 👋
 
-<!--
-**Joul24py/joul24py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joul. I'm from Mexico and I'm studying Intelligent Computing Engineering in the Autonomous University of Aguascalientes. I love Computer science and find ways to combine mathematics and programming to solve problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Programming languages I know:
+  - C
+  - C++
+  - C#
+  - Java
+  - Python
+  - R
+  - PROLOG
+  - LISP
+- 🛠️ I’m currently working on:
+  - A music player developed in Python to show lyrics of songs by .lrc files
+- 📖 I’m currently learning:
+  - Competitive Programming strategies to code
+  - Julia programming language
+- 👥 I’m looking to collaborate on:
+  - A "knowledge symbiosis" of computational physics with my best friend
+- 💬 Ask me about:
+  - Anything 😄 I'll do my best to be helpful
+- 📲 How to reach me:
+  - This is my personal account. You can find my public accounts over here:
+  - https://github.com/Joul24cpp
+  - I'll answer over there 😄
+- 😄 Pronouns:
+  - He/him
+
+---
+
+- ⚡ Fun facts:
+  - I love basketball 🏀 (Kobe 😭💛💜, Curry, Dončić, Lillard, everyone 😃)
+  - Love music like The Fold, Alan Walker, One Direction (as a band and in their solo careers)
+  - I like to play videogames, like Need For Speed, Rocket League or Minecraft
+
+See you around! 😃
