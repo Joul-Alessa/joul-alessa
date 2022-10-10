@@ -5,27 +5,23 @@ I'm Joul. I'm from Mexico and I'm studying Intelligent Computing Engineering in 
 ---
 
 - 💻 Programming languages I know:
-  - C
-  - C++
-  - C#
-  - Java
+  - C/C++ 
   - Python
+  - JavaScript
+  - Java
+  - C#
   - R
   - PROLOG
   - LISP
-- 🛠️ I’m currently working on:
+- 🛠️ I'm currently working on:
   - A music player developed in Python to show lyrics of songs by .lrc files
-- 📖 I’m currently learning:
+- 📖 I'm currently learning:
   - Competitive Programming strategies to code
   - Julia programming language
-- 👥 I’m looking to collaborate on:
+- 👥 I'm looking to collaborate on:
   - A "knowledge symbiosis" of computational physics with my best friend
 - 💬 Ask me about:
   - Anything 😄 I'll do my best to be helpful
-- 📲 How to reach me:
-  - This is my personal account. You can find my public accounts over here:
-  - https://github.com/Joul24cpp
-  - I'll answer over there 😄
 - 😄 Pronouns:
   - He/him
 
