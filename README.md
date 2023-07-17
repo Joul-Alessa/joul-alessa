@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joul. I'm from Mexico and I'm studying Intelligent Computing Engineering in the Autonomous University of Aguascalientes. I love Computer science and find ways to combine mathematics and programming to solve problems
+I'm Joul. I'm from Mexico and I studied Intelligent Computing Engineering in the Autonomous University of Aguascalientes. I love Computer science and find ways to combine mathematics and programming to solve problems
 
 ---
 
