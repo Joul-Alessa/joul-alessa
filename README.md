@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joul. I'm from Mexico and I studied Intelligent Computing Engineering in the Autonomous University of Aguascalientes. I love Computer science and find ways to combine mathematics and programming to solve problems
+I'm Joul. I'm from Mexico and I studied [Intelligent Computing Engineering](https://github.com/Joul24py/UAA-ICI) in the Aguascalientes Autonomous University. I love Computer science and find ways to combine mathematics and programming to solve problems
 
 ---
 
@@ -10,14 +10,11 @@ I'm Joul. I'm from Mexico and I studied Intelligent Computing Engineering in the
   - JavaScript
   - Java
   - C#
-  - R
-  - PROLOG
-  - LISP
 - 🛠️ I'm currently working on:
   - A music player developed in Python to show lyrics of songs by .lrc files
 - 📖 I'm currently learning:
-  - Competitive Programming strategies to code
-  - Julia programming language
+  - Data science theory and mathematics for data science and machine learning
+  - R language
 - 👥 I'm looking to collaborate on:
   - A "knowledge symbiosis" of computational physics with my best friend
 - 💬 Ask me about:
