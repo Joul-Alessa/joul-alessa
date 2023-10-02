@@ -22,9 +22,9 @@ I'm Joul. I'm from Mexico and I studied [Intelligent Computing Engineering](http
 - 😄 Pronouns:
   - He/him
 
-[![](https://raw.githubusercontent.com/joul24py/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/joul24py/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/joul24py/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/joul24py/github-profile-summary-cards) [![](https://raw.githubusercontent.com/joul24py/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/joul24py/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/joul24py/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/joul24py/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Joul24py/joul24py/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Joul24py/joul24py/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Joul24py/joul24py/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Joul24py/joul24py/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Joul24py/joul24py/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
